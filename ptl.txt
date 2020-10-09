@@ -1,0 +1,18 @@
+•	Throughput
+Throughput adalah kecepatan data rata-rata yang di terima oleh suatu node dalam selang waktu  pengamatan tertentu.
+Rumus throughput	= Jumlah data yang di kirim(bytes)/waktu pengiriman (time span) × 8
+			= 35911/612551x8
+			= 469
+•	Delay
+Delay adalah wktu tunda saat paket yang diakibatkan oleh proses transmisi dari suatu titik menuju titik lain yang menjadi tujuannya.
+Rumus delay	= time 2 – time 1
+		=
+•	Jitter
+Jitter adalah variasi waktu dari sinyal periodik dalam elektronik dan telekomunikasi.
+Rumus jitter	= Delay 1 – Delay 2
+		= 
+•	Packet loss/Error
+Packet loss/error adalah banyaknya paket yang hilang pada suatu jaringan paket yang disebabkan oleh tabrakan collis penuhnya kapasitas jaringan, dan penurunan paket yang disebabkan oleh habisnya TTL (Time To Live) paket.
+Rumus packet loss		= jumlah paket yang dikirim – jumlah paket yang diterima/jumlah paket yang dikirim x 100%
+				= 294-294/294 x 100%
+				= 0
